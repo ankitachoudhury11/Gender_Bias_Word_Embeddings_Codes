@@ -1,0 +1,464 @@
+SOC_Codes_2018,Occupation,Total,ma,fe,Female,Male
+MGR-General And Operations Managers,manager,25676,16984,8692,0.33852625,0.66147375
+MGR-Chief Executives And Legislators,sheriff,42807,31749,11058,0.258322237,0.741677763
+MGR-Advertising And Promotions Managers,manager,1473,540,933,0.633401222,0.366598778
+MGR-Marketing Managers,manager,20096,7581,12515,0.622760748,0.377239252
+MGR-Sales Managers,salesperson,14646,9481,5165,0.352656015,0.647343985
+MGR-Public Relations And Fundraising Managers,manager,2470,841,1629,0.65951417,0.34048583
+MGR-Administrative Services Managers,manager,2475,683,1792,0.724040404,0.275959596
+MGR-Facilities Managers,manager,3698,3107,591,0.159816117,0.840183883
+MGR-Computer And Information Systems Managers,manager,21577,15280,6297,0.291838532,0.708161468
+MGR-Financial Managers,comptroller,40458,19540,20918,0.517030006,0.482969994
+MGR-Industrial Production Managers,manager,6387,5214,1173,0.183654298,0.816345702
+MGR-Purchasing Managers,manager,5403,3204,2199,0.406996113,0.593003887
+"MGR-Transportation, Storage, And Distribution Managers",manager,4992,4400,592,0.118589744,0.881410256
+MGR-Compensation And Benefits Managers,manager,516,119,397,0.769379845,0.230620155
+MGR-Human Resources Managers,manager,11175,4178,6997,0.626129754,0.373870246
+MGR-Training And Development Managers,manager,1722,947,775,0.450058072,0.549941928
+"MGR-Farmers, Ranchers, And Other Agricultural Managers",farmer,4025,2667,1358,0.337391304,0.662608696
+MGR-Construction Managers,manager,17270,15282,1988,0.115112913,0.884887087
+MGR-Education And Childcare Administrators,administrator,35495,11699,23796,0.670404282,0.329595718
+MGR-Architectural And Engineering Managers,architect,6235,5482,753,0.120769848,0.879230152
+MGR-Food Service Managers,manager,24994,13481,11513,0.460630551,0.539369449
+MGR-Entertainment And Recreation Managers,manager,1486,860,626,0.421265141,0.578734859
+MGR-Lodging Managers,manager,3855,1890,1965,0.509727626,0.490272374
+MGR-Medical And Health Services Managers,manager,24159,6706,17453,0.722422286,0.277577714
+MGR-Natural Sciences Managers,manager,1305,601,704,0.539463602,0.460536398
+"MGR-Property, Real Estate, And Community Association Managers",manager,16321,9448,6873,0.421113902,0.578886098
+MGR-Social And Community Service Managers,manager,14412,4258,10154,0.704551762,0.295448238
+MGR-Emergency Management Directors,director,192,171,21,0.109375,0.890625
+"BUS-Agents And Business Managers Of Artists, Performers, And Athletes",manager,1186,429,757,0.638279933,0.361720067
+"BUS-Buyers And Purchasing Agents, Farm Products",buyer,168,127,41,0.244047619,0.755952381
+"BUS-Wholesale And Retail Buyers, Except Farm Products",buyer,5341,2396,2945,0.55139487,0.44860513
+"BUS-Purchasing Agents, Except Wholesale, Retail, And Farm Products",purchaser,6799,3005,3794,0.558023239,0.441976761
+"BUS-Claims Adjusters, Appraisers, Examiners, And Investigators",appraiser,6822,2817,4005,0.58707124,0.41292876
+BUS-Compliance Officers,officer,7853,3650,4203,0.535209474,0.464790526
+BUS-Cost Estimators,estimator,3064,2587,477,0.155678851,0.844321149
+BUS-Human Resources Workers,recruiter,25549,6812,18737,0.733375083,0.266624917
+BUS-Logisticians,manager,2633,2019,614,0.233194075,0.766805925
+BUS-Project Management Specialists,consultant,21373,11791,9582,0.44832265,0.55167735
+BUS-Management Analysts,consultant,37343,21109,16234,0.434726723,0.565273277
+"BUS-Meeting, Convention, And Event Planners",planner,5704,1023,4681,0.820652174,0.179347826
+BUS-Fundraisers,fundraiser,5395,1251,4144,0.768118628,0.231881372
+BUS-Market Research Analysts And Marketing Specialists,researcher,14910,5735,9175,0.61535882,0.38464118
+FIN-Accountants And Auditors,accountant,60612,26826,33786,0.557414373,0.442585627
+FIN-Property Appraisers And Assessors,appraiser,2751,1633,1118,0.406397674,0.593602326
+FIN-Budget Analysts,officer,1113,518,595,0.534591195,0.465408805
+FIN-Credit Analysts,analytics,614,462,152,0.247557003,0.752442997
+FIN-Financial And Investment Analysts,officer,11113,7264,3849,0.34635112,0.65364888
+FIN-Personal Financial Advisors,officer,14765,10066,4699,0.318252624,0.681747376
+FIN-Insurance Underwriters,underwriter,2957,1201,1756,0.593845113,0.406154887
+FIN-Credit Counselors And Loan Officers,lender,7066,3733,3333,0.471695443,0.528304557
+CMM-Information Security Analysts,scientist,3037,2269,768,0.252881133,0.747118867
+CMM-Computer And Information Research Scientists,scientist,1859,1403,456,0.245293168,0.754706832
+CMM-Computer Network Architects,engineer,2751,2591,160,0.058160669,0.941839331
+CMM-Network And Computer Systems Administrators,engineer,6164,4832,1332,0.216093446,0.783906554
+CMM-Database Administrators And Architects,engineer,4145,2656,1489,0.359227986,0.640772014
+CMM-Computer Programmers,programmer,13102,9664,3438,0.262402687,0.737597313
+CMM-Software Developers,developer,63632,51097,12535,0.196992079,0.803007921
+CMM-Software Quality Assurance Analysts And Testers,engineer,4826,2707,2119,0.439079983,0.560920017
+CMM-Web Developers,developer,5306,3458,1848,0.34828496,0.65171504
+CMM-Web And Digital Interface Designers,designer,2174,972,1202,0.552897884,0.447102116
+CMM-Actuaries,actuary,1945,1170,775,0.398457584,0.601542416
+CMM-Operations Research Analysts,consultant,3721,1792,1929,0.51840903,0.48159097
+"ENG-Architects, Except Landscape And Naval",architect,7747,5096,2651,0.342196979,0.657803021
+ENG-Landscape Architects,architect,1176,583,593,0.504251701,0.495748299
+"ENG-Surveyors, Cartographers, And Photogrammetrists",surveyor,531,514,17,0.032015066,0.967984934
+ENG-Aerospace Engineers,engineer,2711,2526,185,0.068240502,0.931759498
+ENG-Chemical Engineers,engineer,2660,2027,633,0.237969925,0.762030075
+ENG-Civil Engineers,engineer,12323,10292,2031,0.164813763,0.835186237
+ENG-Computer Hardware Engineers,engineer,2146,1777,369,0.17194781,0.82805219
+ENG-Electrical And Electronics Engineers,engineer,9550,8643,907,0.094973822,0.905026178
+ENG-Environmental Engineers,engineer,789,600,189,0.239543726,0.760456274
+ENG-Biomedical And Agricultural Engineers,engineer,939,687,252,0.268370607,0.731629393
+"ENG-Industrial Engineers, Including Health And Safety",engineer,7873,6249,1624,0.206274609,0.793725391
+ENG-Marine Engineers And Naval Architects,engineer,330,285,45,0.136363636,0.863636364
+ENG-Materials Engineers,engineer,1406,1173,233,0.16571835,0.83428165
+ENG-Mechanical Engineers,engineer,7132,6377,755,0.105860909,0.894139091
+"ENG-Petroleum, Mining And Geological Engineers, Including Mining Safety Engineers",engineer,276,276,0,0,1
+ENG-Other Engineers,engineer,23345,19737,3608,0.154551296,0.845448704
+ENG-Architectural And Civil Drafters,draftsperson,1184,834,350,0.295608108,0.704391892
+ENG-Other Drafters,draftsperson,2923,2480,443,0.15155662,0.84844338
+ENG-Electrical and Electronic Engineering Technologists And Technicians,technician,2424,2213,211,0.087046205,0.912953795
+"ENG-Other Engineering Technologists And Technicians, Except Drafters",technician,8906,6557,2349,0.263754772,0.736245228
+ENG-Surveying And Mapping Technicians,surveyor,948,778,170,0.179324895,0.820675105
+SCI-Agricultural And Food Scientists,scientist,511,313,198,0.387475538,0.612524462
+SCI-Biological Scientists,scientist,4741,2387,2354,0.496519722,0.503480278
+SCI-Conservation Scientists And Foresters,conservationist,276,173,103,0.373188406,0.626811594
+SCI-Other Life Scientists,scientist,14791,7542,7249,0.490095328,0.509904672
+SCI-Astronomers And Physicists,physicist,454,407,47,0.103524229,0.896475771
+SCI-Atmospheric And Space Scientists,scientist,156,82,74,0.474358974,0.525641026
+SCI-Chemists And Materials Scientists,chemist,3981,2246,1735,0.435820146,0.564179854
+"SCI-Environmental Scientists And Specialists, Including Health",scientist,745,488,257,0.344966443,0.655033557
+"SCI-Geoscientists And Hydrologists, Except Geographers",geologist,1024,757,267,0.260742188,0.739257813
+"SCI-Physical Scientists, All Other",scientist,21727,12381,9346,0.430156027,0.569843973
+SCI-Economists,economist,948,721,227,0.239451477,0.760548523
+SCI-Clinical And Counseling Psychologists,psychologist,1602,716,886,0.553058677,0.446941323
+SCI-School Psychologists,psychologist,2410,389,2021,0.838589212,0.161410788
+SCI-Other Psychologists,psychologist,6706,1653,5053,0.753504324,0.246495676
+SCI-Urban And Regional Planners,planner,849,293,556,0.654888104,0.345111896
+SCI-Agricultural And Food Science Technicians,technician,654,360,294,0.449541284,0.550458716
+SCI-Biological Technicians,technician,1771,959,812,0.458498024,0.541501976
+SCI-Chemical Technicians,technician,1601,975,626,0.391005621,0.608994379
+"SCI-Environmental Science And Geoscience Technicians, And Nuclear Technicians",technician,897,532,365,0.406911929,0.593088071
+"SCI-Other Life, Physical, And Social Science Technicians",technician,12930,6227,6703,0.518406806,0.481593194
+SCI-Occupational Health And Safety Specialists And Technicians,technician,1515,867,648,0.427722772,0.572277228
+CMS-Substance Abuse And Behavioral Disorder Counselors,counselor,4075,1028,3047,0.747730061,0.252269939
+"CMS-Educational, Guidance, And Career Counselors And Advisors",counselor,14219,3532,10687,0.751599972,0.248400028
+CMS-Marriage And Family Therapists,counselor,1219,228,991,0.812961444,0.187038556
+CMS-Mental Health Counselors,counselor,4317,1029,3288,0.761640028,0.238359972
+CMS-Rehabilitation Counselors,counselor,1126,248,878,0.779751332,0.220248668
+"CMS-Counselors, All Other",counselor,10075,4003,6072,0.602679901,0.397320099
+"CMS-Child, Family, And School Social Workers",worker,3335,603,2732,0.819190405,0.180809595
+CMS-Healthcare Social Workers,worker,2879,612,2267,0.78742619,0.21257381
+CMS-Mental Health And Substance Abuse Social Workers,worker,1235,280,955,0.773279352,0.226720648
+"CMS-Social Workers, All Other",worker,24237,4662,19575,0.807649462,0.192350538
+CMS-Probation Officers And Correctional Treatment Specialists,police,1628,706,922,0.566339066,0.433660934
+CMS-Clergy,clergy,7460,5187,2273,0.304691689,0.695308311
+LGL-Judicial Law Clerks,clerk,539,268,271,0.502782931,0.497217069
+"LGL-Lawyers, And Judges, Magistrates, And Other Judicial Workers",judge,40602,23294,17308,0.426284419,0.573715581
+LGL-Paralegals And Legal Assistants,paralegal,11385,2486,8899,0.781642512,0.218357488
+"LGL-Title Examiners, Abstractors, And Searchers",abstractor,1513,384,1129,0.746199603,0.253800397
+"LGL-Legal Support Workers, All Other",assistant,1233,575,658,0.533657745,0.466342255
+EDU-Postsecondary Teachers,professor,67870,34258,33612,0.495240902,0.504759098
+EDU-Preschool And Kindergarten Teachers,teacher,22560,646,21914,0.971365248,0.028634752
+EDU-Elementary And Middle School Teachers,teacher,98016,19199,78817,0.804123817,0.195876183
+EDU-Secondary School Teachers,teacher,28244,12016,16228,0.574564509,0.425435491
+EDU-Special Education Teachers,teacher,10402,1530,8872,0.852912901,0.147087099
+EDU-Tutors,tutor,8991,3230,5761,0.640751863,0.359248137
+EDU-Other Teachers And Instructors,instructor,26020,8921,17099,0.657148347,0.342851653
+"EDU-Archivists, Curators, And Museum Technicians",curator,2400,738,1662,0.6925,0.3075
+EDU-Librarians And Media Collections Specialists,librarian,7786,1361,6425,0.825199075,0.174800925
+EDU-Library Technicians,librarian,2163,873,1290,0.596393897,0.403606103
+EDU-Teaching Assistants,teacher,40964,7865,33099,0.808002148,0.191997852
+ENT-Artists And Related Workers,artist,7373,3203,4170,0.565577106,0.434422894
+ENT-Commercial And Industrial Designers,engineer,726,492,234,0.32231405,0.67768595
+ENT-Fashion Designers,designer,876,160,716,0.817351598,0.182648402
+ENT-Floral Designers,designer,2362,315,2047,0.866638442,0.133361558
+ENT-Graphic Designers,designer,9918,3750,6168,0.621899577,0.378100423
+ENT-Interior Designers,designer,2803,305,2498,0.891188013,0.108811987
+ENT-Merchandise Displayers And Window Trimmers,designer,365,148,217,0.594520548,0.405479452
+ENT-Other Designers,designer,10530,5219,5311,0.504368471,0.495631529
+ENT-Actors,performer,927,483,444,0.478964401,0.521035599
+ENT-Producers And Directors,producer,3376,1964,1412,0.418246445,0.581753555
+ENT-Athletes And Sports Competitors,athlete,1218,1066,152,0.124794745,0.875205255
+ENT-Coaches And Scouts,coach,11072,5475,5597,0.505509393,0.494490607
+"ENT-Umpires, Referees, And Other Sports Officials",referees,2289,1658,631,0.27566623,0.72433377
+ENT-Dancers And Choreographers,dancer,476,224,252,0.529411765,0.470588235
+ENT-Music Directors And Composers,songwriter,1289,705,584,0.453064391,0.546935609
+ENT-Musicians And Singers,musician,5068,3290,1778,0.350828729,0.649171271
+"ENT-Disc Jockeys, Except Radio",deejay,161,161,0,0,1
+"ENT-Entertainers And Performers, Sports And Related Workers, All Other",entertainer,1204,788,416,0.34551495,0.65448505
+ENT-Broadcast Announcers And Radio Disc Jockeys,announcer,1083,879,204,0.188365651,0.811634349
+"ENT-News Analysts, Reporters, And Journalists",newsperson,2399,1251,1148,0.478532722,0.521467278
+ENT-Public Relations Specialists,lobbyist,4292,1448,2844,0.662628145,0.337371855
+ENT-Editors,editor,8391,3214,5177,0.616970564,0.383029436
+ENT-Technical Writers,writer,3551,1627,1924,0.541819206,0.458180794
+ENT-Writers And Authors,author,9909,3757,6152,0.620849733,0.379150267
+ENT-Interpreters And Translators,translator,3925,1017,2908,0.74089172,0.25910828
+ENT-Photographers,photographer,4766,2331,2435,0.510910617,0.489089383
+"ENT-Television, Video, And Film Camera Operators And Editors",operator,2065,1568,497,0.240677966,0.759322034
+MED-Chiropractors,chiropractor,1173,851,322,0.274509804,0.725490196
+MED-Dentists,dentist,5915,3428,2487,0.420456467,0.579543533
+MED-Dietitians And Nutritionists,dietitian,3127,256,2871,0.918132395,0.081867605
+MED-Optometrists,optometrist,843,426,417,0.494661922,0.505338078
+MED-Pharmacists,pharmacist,7310,2919,4391,0.600683995,0.399316005
+MED-Physician Assistants,compounder,3362,1221,2141,0.636823319,0.363176681
+MED-Podiatrists,podiatrist,381,266,115,0.30183727,0.69816273
+MED-Occupational Therapists,therapist,4410,210,4200,0.952380952,0.047619048
+MED-Physical Therapists,therapist,8769,2072,6697,0.76371308,0.23628692
+MED-Radiation Therapists,therapist,526,190,336,0.63878327,0.36121673
+MED-Recreational Therapists,therapist,457,150,307,0.671772429,0.328227571
+MED-Respiratory Therapists,therapist,1645,573,1072,0.651671733,0.348328267
+MED-Speech-Language Pathologists,therapist,5116,211,4905,0.958756841,0.041243159
+MED-Other Therapists,therapist,5895,1171,4724,0.801357082,0.198642918
+MED-Veterinarians,veterinarian,2025,508,1517,0.749135802,0.250864198
+MED-Registered Nurses,nurse,97516,8024,89492,0.917716067,0.082283933
+MED-Nurse Anesthetists,nurse,736,197,539,0.732336957,0.267663043
+MED-Audiologists,audiologist,422,113,309,0.732227488,0.267772512
+"MED-Nurse Practitioners, And Nurse Midwives",nurse,7220,338,6882,0.953185596,0.046814404
+MED-Physicians,physician,32228,17933,14295,0.443558396,0.556441604
+MED-Surgeons,surgeon,1579,1180,399,0.252691577,0.747308423
+MED-Acupuncturists,acupuncturist,722,175,547,0.757617729,0.242382271
+MED-Dental Hygienists,compounder,5856,99,5757,0.983094262,0.016905738
+MED-Clinical Laboratory Technologists And Technicians,technician,10458,2886,7572,0.724039013,0.275960987
+MED-Cardiovascular Technologists And Technicians,technician,995,302,693,0.696482412,0.303517588
+MED-Diagnostic Medical Sonographers,sonographer,2153,416,1737,0.806781235,0.193218765
+MED-Radiologic Technologists And Technicians,technician,4792,995,3797,0.79236227,0.20763773
+MED-Magnetic Resonance Imaging Technologists,technician,956,367,589,0.616108787,0.383891213
+MED-Nuclear Medicine Technologists And Medical Dosimetrists,technician,408,65,343,0.840686275,0.159313725
+MED-Emergency Medical Technicians,technician,3794,2218,1576,0.415392725,0.584607275
+MED-Paramedics,paramedics,2335,1543,792,0.339186296,0.660813704
+MED-Pharmacy Technicians,pharmacist,8926,2230,6696,0.750168048,0.249831952
+MED-Psychiatric Technicians,technician,1345,514,831,0.617843866,0.382156134
+MED-Surgical Technologists,technician,2292,420,1872,0.816753927,0.183246073
+MED-Veterinary Technologists And Technicians,veterinarian,2920,195,2725,0.933219178,0.066780822
+MED-Dietetic Technicians And Ophthalmic Medical Technicians,nutritionist,686,143,543,0.79154519,0.20845481
+MED-Licensed Practical And Licensed Vocational Nurses,nurse,20451,2907,17544,0.857855362,0.142144638
+"MED-Opticians, Dispensing",optician,1538,508,1030,0.66970091,0.33029909
+MED-Miscellaneous Health Technologists And Technicians,technician,3519,1574,1945,0.552713839,0.447286161
+HLS-Home Health Aides,assistant,15913,1831,14082,0.884936844,0.115063156
+HLS-Personal Care Aides,assistant,40757,8222,32535,0.798267782,0.201732218
+HLS-Nursing Assistants,assistant,53039,6413,46626,0.879088972,0.120911028
+HLS-Orderlies And Psychiatric Aides,assistant,2124,1133,991,0.466572505,0.533427495
+HLS-Occupational Therapy Assistants And Aides,assistant,949,158,791,0.833508957,0.166491043
+HLS-Physical Therapist Assistants And Aides,assistant,2423,571,1852,0.764341725,0.235658275
+HLS-Massage Therapists,assistant,5368,1237,4131,0.769560358,0.230439642
+HLS-Dental Assistants,assistant,8162,544,7618,0.933349669,0.066650331
+HLS-Medical Assistants,assisstant,14324,1077,13247,0.924811505,0.075188495
+HLS-Medical Transcriptionists,transcriptionist,729,171,558,0.765432099,0.234567901
+HLS-Pharmacy Aides,pharmacist,1523,454,1069,0.701904137,0.298095863
+HLS-Veterinary Assistants And Laboratory Animal Caretakers,veterinarian,998,223,775,0.776553106,0.223446894
+HLS-Phlebotomists,phlebotomist,4533,395,4138,0.91286124,0.08713876
+PRT-Firefighters,firefighter,12259,11948,311,0.025369117,0.974630883
+PRT-Fire Inspectors,firefighter,204,199,5,0.024509804,0.975490196
+PRT-Bailiffs,bailiff,730,587,143,0.195890411,0.804109589
+PRT-Correctional Officers And Jailers,police,7962,6709,1253,0.157372519,0.842627481
+PRT-Detectives And Criminal Investigators,detective,2027,1407,620,0.305870745,0.694129255
+PRT-Police Officers,police,19110,17204,1906,0.099738357,0.900261643
+PRT-Private Detectives And Investigators,detective,2154,1456,698,0.324048282,0.675951718
+PRT-Security Guards And Gambling Surveillance Officers,guard,22636,17903,4733,0.209091712,0.790908288
+PRT-Crossing Guards And Flaggers,guard,1710,608,1102,0.644444444,0.355555556
+EAT-Chefs And Head Cooks,chef,15765,12803,2962,0.187884554,0.812115446
+EAT-Cooks,cook,56908,36937,19971,0.350934842,0.649065158
+EAT-Bartenders,bartender,13348,5207,8141,0.609904105,0.390095895
+EAT-Waiters And Waitresses,waitstaff,60994,17145,43849,0.718906778,0.281093222
+EAT-Dining Room And Cafeteria Attendants And Bartender Helpers,attendant,11654,6138,5516,0.473313884,0.526686116
+EAT-Dishwashers,dishwasher,12528,10087,2441,0.19484355,0.80515645
+"EAT-Hosts And Hostesses, Restaurant, Lounge, And Coffee Shop",attendant,10284,1280,9004,0.875534811,0.124465189
+CLN-Maids And Housekeeping Cleaners,housekeeper,38948,5917,33031,0.848079491,0.151920509
+CLN-Janitors And Building Cleaners,janitor,68669,49580,19089,0.2779857,0.7220143
+CLN-Tree Trimmers And Pruners,lumberjack,2245,2207,38,0.016926503,0.983073497
+"PRS-Ushers, Lobby Attendants, And Ticket Takers",usher,2075,1205,870,0.419277108,0.580722892
+"PRS-Morticians, Undertakers, And Funeral Arrangers",mortician,901,641,260,0.288568257,0.711431743
+PRS-Barbers,barber,3013,2483,530,0.175904414,0.824095586
+"PRS-Hairdressers, Hairstylists, And Cosmetologists",beautician,22972,2606,20366,0.886557548,0.113442452
+PRS-Manicurists and Pedicurists,manicurist,6921,951,5970,0.862592111,0.137407889
+PRS-Skincare Specialists,facialist,2109,35,2074,0.983404457,0.016595543
+"PRS-Baggage Porters, Bellhops, And Concierges",porter,2167,1507,660,0.304568528,0.695431472
+PRS-Tour And Travel Guides,guide,3344,1166,2178,0.651315789,0.348684211
+PRS-Childcare Workers,nanny,43624,4142,39482,0.905052265,0.094947735
+PRS-Exercise Trainers And Group Fitness Instructors,instructor,10664,3853,6811,0.638690923,0.361309077
+SAL-First-Line Supervisors Of Retail Sales Workers,sales,74450,42625,31825,0.427468099,0.572531901
+SAL-First-Line Supervisors Of Non-Retail Sales Workers,sales,32235,20729,11506,0.356941213,0.643058787
+SAL-Cashiers,cashier,98599,28567,70032,0.710270895,0.289729105
+SAL-Counter And Rental Clerks,clerk,3012,1493,1519,0.504316069,0.495683931
+SAL-Parts Salespersons,salesperson,1622,1561,61,0.037607891,0.962392109
+SAL-Retail Salespersons,salesperson,94307,43925,50382,0.534233938,0.465766062
+SAL-Advertising Sales Agents,salesperson,4335,2175,2160,0.498269896,0.501730104
+SAL-Insurance Sales Agents,salesperson,10528,6118,4410,0.418882979,0.581117021
+"SAL-Securities, Commodities, And Financial Services Sales Agents",sales,9086,6600,2486,0.273607748,0.726392252
+SAL-Travel Agents,agent,2627,498,2129,0.810430148,0.189569852
+"SAL-Sales Representatives Of Services, Except Advertising, Insurance, Financial Services, And Travel",sales,22197,15335,6862,0.309140875,0.690859125
+"SAL-Sales Representatives, Wholesale And Manufacturing",sales,32915,23754,9161,0.278322953,0.721677047
+SAL-Real Estate Brokers And Sales Agents,broker,22213,9497,12716,0.57245757,0.42754243
+SAL-Sales Engineers,sales,1750,1627,123,0.070285714,0.929714286
+SAL-Telemarketers,telemarketers,926,370,556,0.600431965,0.399568035
+"SAL-Door-To-Door Sales Workers, News And Street Vendors, And Related Workers",vendor,2714,1291,1423,0.524318349,0.475681651
+"SAL-Sales And Related Workers, All Other",sales,8231,4228,4003,0.486332159,0.513667841
+"OFF-Switchboard Operators, Including Answering Service",operator,723,105,618,0.854771784,0.145228216
+OFF-Telephone Operators,operator,1056,238,818,0.774621212,0.225378788
+"OFF-Communications Equipment Operators, All Other",operator,806,516,290,0.359801489,0.640198511
+OFF-Billing And Posting Clerks,clerk,13195,1512,11683,0.885411141,0.114588859
+"OFF-Bookkeeping, Accounting, And Auditing Clerks",clerk,29667,5324,24343,0.820541342,0.179458658
+OFF-Payroll And Timekeeping Clerks,clerk,4549,579,3970,0.872719279,0.127280721
+OFF-Procurement Clerks,clerk,1035,582,453,0.437681159,0.562318841
+OFF-Tellers,teller,8836,1690,7146,0.808736985,0.191263015
+OFF-Other Financial Clerks,teller,5741,2726,3015,0.525169831,0.474830169
+"OFF-Court, Municipal, And License Clerks",clerk,1000,238,762,0.762,0.238
+"OFF-Credit Authorizers, Checkers, And Clerks",clerk,745,283,462,0.620134228,0.379865772
+OFF-Customer Service Representatives,clerk,73065,25820,47245,0.646616027,0.353383973
+"OFF-Eligibility Interviewers, Government Programs",clerk,1310,302,1008,0.769465649,0.230534351
+OFF-File Clerks,clerk,6863,1845,5018,0.731167128,0.268832872
+"OFF-Hotel, Motel, And Resort Desk Clerks",clerk,2462,870,1592,0.646628757,0.353371243
+"OFF-Interviewers, Except Eligibility And Loan",clerk,3172,455,2717,0.856557377,0.143442623
+"OFF-Library Assistants, Clerical",clerical,4100,801,3299,0.804634146,0.195365854
+OFF-Loan Interviewers And Clerks,clerical,1724,520,1204,0.69837587,0.30162413
+OFF-New Accounts Clerks,clerical,519,246,273,0.526011561,0.473988439
+"OFF-Human Resources Assistants, Except Payroll And Timekeeping",clerical,1380,278,1102,0.798550725,0.201449275
+OFF-Receptionists And Information Clerks,clerical,31278,3168,28110,0.898714752,0.101285248
+OFF-Reservation And Transportation Ticket Agents And Travel Clerks,clerical,2571,1049,1522,0.591987553,0.408012447
+OFF-Correspondence Clerks And Order Clerks,clerical,3138,1309,1829,0.582855322,0.417144678
+OFF-Other Information And Records Clerks,clerical,4328,963,3365,0.777495379,0.222504621
+"OFF-Dispatchers, Except Police, Fire, And Ambulance",dispatcher,4235,2405,1830,0.432113341,0.567886659
+OFF-Postal Service Mail Carriers,postie,9700,7575,2125,0.219072165,0.780927835
+"OFF-Postal Service Mail Sorters, Processors, And Processing Machine Operators",operator,2616,1462,1154,0.441131498,0.558868502
+"OFF-Production, Planning, And Expediting Clerks",clerical,8327,3186,5141,0.617389216,0.382610784
+"OFF-Shipping, Receiving, And Inventory Clerks",clerical,14505,10691,3814,0.262943812,0.737056188
+"OFF-Weighers, Measurers, Checkers, And Samplers, Recordkeeping",clerical,1572,875,697,0.443384224,0.556615776
+OFF-Executive Secretaries And Executive Administrative Assistants,secretary,7419,455,6964,0.93867098,0.06132902
+OFF-Legal Secretaries And Administrative Assistants,secretary,1794,64,1730,0.96432553,0.03567447
+OFF-Medical Secretaries And Administrative Assistants,secretary,3424,171,3253,0.950058411,0.049941589
+"OFF-Secretaries And Administrative Assistants, Except Legal, Medical, And Executive",secretary,75904,4658,71246,0.93863301,0.06136699
+OFF-Data Entry Keyers,clerical,7936,2303,5633,0.709803427,0.290196573
+OFF-Word Processors And Typists,typesetter,6841,1218,5623,0.821955854,0.178044146
+OFF-Insurance Claims And Policy Processing Clerks,clerical,8038,1882,6156,0.765862155,0.234137845
+"OFF-Mail Clerks And Mail Machine Operators, Except Postal Service",clerical,2611,1567,1044,0.399846802,0.600153198
+"OFF-Office Clerks, General",clerical,38025,8336,29689,0.780775805,0.219224195
+"OFF-Office Machine Operators, Except Computer",operator,1063,605,458,0.430856068,0.569143932
+OFF-Proofreaders And Copy Markers,proofreader,600,104,496,0.826666667,0.173333333
+OFF-Statistical Assistants,statistician,775,490,285,0.367741935,0.632258065
+FFF-Agricultural Inspectors,inspector,15,15,0,0,1
+FFF-Other Agricultural Workers,worker,6940,4083,2857,0.41167147,0.58832853
+FFF-Fishing And Hunting Workers,worker,2707,2619,88,0.032508312,0.967491688
+FFF-Forest And Conservation Workers,conservationist,525,320,205,0.39047619,0.60952381
+FFF-Logging Workers,worker,520,498,22,0.042307692,0.957692308
+CON-First-Line Supervisors Of Construction Trades And Extraction Workers,tradesperson,16528,16063,465,0.028134076,0.971865924
+CON-Boilermakers,boilermaker,414,365,49,0.118357488,0.881642512
+CON-Carpenters,carpenter,38730,38127,603,0.015569326,0.984430674
+"CON-Carpet, Floor, And Tile Installers And Finishers",finisher,2862,2782,80,0.027952481,0.972047519
+"CON-Cement Masons, Concrete Finishers, And Terrazzo Workers",mason,389,389,0,0,1
+CON-Construction laborers,laborer,41772,40609,1163,0.027841616,0.972158384
+CON-Construction Equipment Operators,operator,7216,6967,249,0.034506652,0.965493348
+"CON-Drywall Installers, Ceiling Tile Installers, And Tapers",taper,1829,1829,0,0,1
+CON-Electricians,electrician,22168,21954,214,0.009653555,0.990346445
+CON-Glaziers,glazier,875,875,0,0,1
+CON-Insulation Workers,workers,1491,1491,0,0,1
+CON-Painters And Paperhangers,painter,18210,17078,1132,0.062163646,0.937836354
+CON-Pipelayers,pipelayer,1129,1117,12,0.010628875,0.989371125
+"CON-Plumbers, Pipefitters, And Steamfitters",plumber,14506,14337,169,0.011650352,0.988349648
+CON-Plasterers And Stucco Masons,plasterer,1428,1428,0,0,1
+CON-Roofers,roofer,4460,4460,0,0,1
+CON-Sheet Metal Workers,worker,2924,2795,129,0.044117647,0.955882353
+CON-Structural Iron And Steel Workers,worker,1046,943,103,0.098470363,0.901529637
+CON-Solar Photovoltaic Installers,installer,311,311,0,0,1
+"CON-Brickmasons, Blockmasons, Stonemasons, And Reinforcing Iron And Rebar Workers",mason,5002,4958,44,0.008796481,0.991203519
+"CON-Helpers, Construction Trades",tradesperson,1048,866,182,0.173664122,0.826335878
+CON-Construction And Building Inspectors,inspector,2101,1820,281,0.133745835,0.866254165
+CON-Elevator And Escalator Installers And Repairers,repairer,687,664,23,0.033478894,0.966521106
+CON-Fence Erectors,installer,1236,1236,0,0,1
+CON-Hazardous Materials Removal Workers,worker,835,772,63,0.075449102,0.924550898
+CON-Highway Maintenance Workers,worker,1928,1857,71,0.036825726,0.963174274
+CON-Rail-Track Laying And Maintenance Equipment Operators,operator,259,259,0,0,1
+CON-Other Construction And Related Workers,worker,885,874,11,0.012429379,0.987570621
+EXT-Surface Mining Machine Operators And Earth Drillers,operator,645,628,17,0.026356589,0.973643411
+"EXT-Explosives Workers, Ordnance Handling Experts, And Blasters",blaster,264,264,0,0,1
+EXT-Underground Mining Machine Operators,operator,173,150,23,0.132947977,0.867052023
+EXT-Other Extraction Workers,worker,271,257,14,0.051660517,0.948339483
+"EXT-Derrick, Rotary Drill, And Service Unit Operators, And Roustabouts, Oil And Gas",operator,23,23,0,0,1
+"RPR-First-Line Supervisors Of Mechanics, Installers, And Repairers",repairer,4379,4140,239,0.054578671,0.945421329
+"RPR-Computer, Automated Teller, And Office Machine Repairers",repairer,4392,3821,571,0.130009107,0.869990893
+RPR-Radio And Telecommunications Equipment Installers And Repairers,repairer,3468,3117,351,0.101211073,0.898788927
+RPR-Avionics Technicians,technician,251,251,0,0,1
+"RPR-Electric Motor, Power Tool, And Related Repairers",repairer,366,357,9,0.024590164,0.975409836
+RPR-Audiovisual Equipment Installers And Repairers,repairer,493,431,62,0.125760649,0.874239351
+RPR-Security And Fire Alarm Systems Installers,installer,1461,1432,29,0.019849418,0.980150582
+"RPR-Other Electrical And Electronic Equipment Mechanics, Installers, and Repairers",mechanic,307,307,0,0,1
+RPR-Aircraft Mechanics And Service Technicians,mechanic,1779,1756,23,0.012928612,0.987071388
+RPR-Automotive Body And Related Repairers,mechanic,3086,3037,49,0.015878159,0.984121841
+RPR-Automotive Glass Installers And Repairers,mechanic,364,364,0,0,1
+RPR-Automotive Service Technicians And Mechanics,mechanic,17877,17437,440,0.024612631,0.975387369
+RPR-Bus And Truck Mechanics And Diesel Engine Specialists,mechanic,5453,5453,0,0,1
+RPR-Heavy Vehicle And Mobile Equipment Service Technicians And Mechanics,mechanic,3203,3158,45,0.014049329,0.985950671
+RPR-Small Engine Mechanics,mechanic,876,876,0,0,1
+"RPR-Miscellaneous Vehicle And Mobile Equipment Mechanics, Installers, And Repairers",mechanic,1014,999,15,0.014792899,0.985207101
+RPR-Control And Valve Installers And Repairers,mechanic,437,371,66,0.151029748,0.848970252
+"RPR-Heating, Air Conditioning, And Refrigeration Mechanics And Installers",mechanic,9692,9567,125,0.012897235,0.987102765
+RPR-Home Appliance Repairers,repairer,963,915,48,0.049844237,0.950155763
+"RPR-Maintenance Workers, Machinery",mechanic,192,192,0,0,1
+RPR-Millwrights,millwright,552,552,0,0,1
+RPR-Industrial And Refractory Machinery Mechanics,mechanic,6540,6312,228,0.034862385,0.965137615
+RPR-Electrical Power-Line Installers And Repairers,electrician,2195,2167,28,0.012756264,0.987243736
+RPR-Telecommunications Line Installers And Repairers,electrician,2433,2298,135,0.055487053,0.944512947
+RPR-Precision Instrument And Equipment Repairers,mechanic,1590,1373,217,0.136477987,0.863522013
+"RPR-Maintenance And Repair Workers, General",mechanic,10593,10254,339,0.032002266,0.967997734
+"RPR-Coin, Vending, And Amusement Machine Servicers And Repairers",mechanic,263,224,39,0.148288973,0.851711027
+RPR-Locksmiths And Safe Repairers,smith,454,454,0,0,1
+RPR-Riggers,rigger,173,173,0,0,1
+"RPR-Helpers--Installation, Maintenance, And Repair Workers",repairer,187,187,0,0,1
+"RPR-Other Installation, Maintenance, And Repair Workers",installer,5277,4952,325,0.061588023,0.938411977
+PRD-First-Line Supervisors Of Production And Operating Workers,operator,15304,11543,3761,0.245752744,0.754247256
+"PRD-Electrical, Electronics, And Electromechanical Assemblers",mechanic,4186,2021,2165,0.517200191,0.482799809
+PRD-Engine And Other Machine Assemblers,assembler,141,141,0,0,1
+PRD-Structural Metal Fabricators And Fitters,fabricator,452,423,29,0.064159292,0.935840708
+PRD-Other Assemblers and Fabricators,operator,19126,10523,8603,0.449806546,0.550193454
+PRD-Bakers,baker,7669,3339,4330,0.564610771,0.435389229
+"PRD-Butchers And Other Meat, Poultry, And Fish Processing Workers",butcher,4452,3836,616,0.13836478,0.86163522
+"PRD-Food And Tobacco Roasting, Baking, And Drying Machine Operators And Tenders",operator,56,44,12,0.214285714,0.785714286
+PRD-Food Batchmakers,operator,1901,766,1135,0.597054182,0.402945818
+PRD-Food Cooking Machine Operators And Tenders,operator,473,290,183,0.386892178,0.613107822
+"PRD-Food Processing Workers, All Other",worker,2110,1529,581,0.27535545,0.72464455
+"PRD-Forming Machine Setters, Operators, And Tenders, Metal And Plastic",setter,505,433,72,0.142574257,0.857425743
+"PRD-Cutting, Punching, And Press Machine Setters, Operators, And Tenders, Metal And Plastic",setter,855,733,122,0.142690058,0.857309942
+"PRD-Grinding, Lapping, Polishing, And Buffing Machine Tool Setters, Operators, And Tenders, Metal and Plastic",setter,632,405,227,0.359177215,0.640822785
+"PRD-Other Machine Tool Setters, Operators, And Tenders, Metal And Plastic",setter,250,137,113,0.452,0.548
+PRD-Machinists,machinist,9934,9777,157,0.015804308,0.984195692
+"PRD-Metal Furnace Operators, Tenders, Pourers, And Casters",machinist,285,285,0,0,1
+"PRD-Model Makers, Patternmakers, And Molding Machine Setters, Metal And Plastic",machinist,793,641,152,0.191677175,0.808322825
+PRD-Tool And Die Makers,toolmaker,1130,1094,36,0.031858407,0.968141593
+"PRD-Welding, Soldering, And Brazing Workers",welder,7124,6364,760,0.10668164,0.89331836
+PRD-Other Metal Workers And Plastic Workers,worker,8631,7451,1180,0.136716487,0.863283513
+PRD-Prepress Technicians And Workers,technician,909,575,334,0.367436744,0.632563256
+PRD-Printing Press Operators,operator,4514,3579,935,0.207133363,0.792866637
+PRD-Print Binding And Finishing Workers,worker,513,355,158,0.307992203,0.692007797
+PRD-Laundry And Dry-Cleaning Workers,worker,4675,1558,3117,0.666737968,0.333262032
+"PRD-Pressers, Textile, Garment, And Related Materials",presser,718,365,353,0.491643454,0.508356546
+PRD-Sewing Machine Operators,operator,3826,900,2926,0.764767381,0.235232619
+PRD-Shoe And Leather Workers,shoemaker,446,330,116,0.260089686,0.739910314
+"PRD-Tailors, Dressmakers, And Sewers",tailor,1901,370,1531,0.805365597,0.194634403
+"PRD-Textile Machine Setters, Operators, And Tenders",setter,381,148,233,0.611548556,0.388451444
+PRD-Upholsterers,upholsterer,302,235,67,0.221854305,0.778145695
+"PRD-Other Textile, Apparel, And Furnishings Workers",worker,175,119,56,0.32,0.68
+PRD-Cabinetmakers And Bench Carpenters,cabinetmaker,1144,1114,30,0.026223776,0.973776224
+PRD-Furniture Finishers,finisher,247,201,46,0.186234818,0.813765182
+"PRD-Sawing Machine Setters, Operators, And Tenders, Wood",setter,160,160,0,0,1
+"PRD-Woodworking Machine Setters, Operators, And Tenders, Except Sawing",setter,294,211,83,0.282312925,0.717687075
+PRD-Other Woodworkers,woodworker,746,663,83,0.111260054,0.888739946
+"PRD-Power Plant Operators, Distributors, And Dispatchers",operator,741,686,55,0.074224022,0.925775978
+PRD-Stationary Engineers And Boiler Operators,operator,2114,2026,88,0.041627247,0.958372753
+PRD-Water And Wastewater Treatment Plant And System Operators,operator,2190,2018,172,0.078538813,0.921461187
+PRD-Miscellaneous Plant And System Operators,operator,290,245,45,0.155172414,0.844827586
+"PRD-Chemical Processing Machine Setters, Operators, And Tenders",setter,804,548,256,0.31840796,0.68159204
+"PRD-Crushing, Grinding, Polishing, Mixing, And Blending Workers",worker,1923,1773,150,0.07800312,0.92199688
+PRD-Cutting Workers,worker,1311,987,324,0.247139588,0.752860412
+"PRD-Extruding, Forming, Pressing, And Compacting Machine Setters, Operators, And Tenders",setter,680,621,59,0.086764706,0.913235294
+"PRD-Furnace, Kiln, Oven, Drier, And Kettle Operators And Tenders",operator,146,146,0,0,1
+"PRD-Inspectors, Testers, Sorters, Samplers, And Weighers",inspector,18755,11386,7369,0.392908558,0.607091442
+PRD-Jewelers And Precious Stone And Metal Workers,jeweler,1464,704,760,0.519125683,0.480874317
+PRD-Dental And Ophthalmic Laboratory Technicians And Medical Appliance Technicians,technician,1982,977,1005,0.507063572,0.492936428
+PRD-Packaging And Filling Machine Operators And Tenders,technician,4352,1670,2682,0.616268382,0.383731618
+PRD-Painting Workers,painter,2492,2187,305,0.122391653,0.877608347
+PRD-Photographic Process Workers And Processing Machine Operators,operator,485,333,152,0.313402062,0.686597938
+PRD-Computer Numerically Controlled Tool Operators And Programmers,toolmaker,2978,2593,385,0.129281397,0.870718603
+PRD-Adhesive Bonding Machine Operators And Tenders,operator,102,85,17,0.166666667,0.833333333
+PRD-Etchers And Engravers,engraver,324,202,122,0.37654321,0.62345679
+"PRD-Molders, Shapers, And Casters, Except Metal And Plastic",caster,735,637,98,0.133333333,0.866666667
+"PRD-Paper Goods Machine Setters, Operators, And Tenders",setter,522,336,186,0.356321839,0.643678161
+PRD-Tire Builders,recapper,75,60,15,0.2,0.8
+PRD-Helpers--Production Workers,worker,1034,775,259,0.250483559,0.749516441
+"PRD-Miscellaneous Production Workers, Including Equipment Operators and Tenders",operator,21936,15751,6185,0.281956601,0.718043399
+TRN-Aircraft Pilots And Flight Engineers,pilot,1721,1589,132,0.076699593,0.923300407
+TRN-Air Traffic Controllers And Airfield Operations Specialists,operator,476,230,246,0.516806723,0.483193277
+TRN-Flight Attendants,attendant,1926,361,1565,0.812564901,0.187435099
+"TRN-Ambulance Drivers And Attendants, Except Emergency Medical Technicians",driver,605,486,119,0.196694215,0.803305785
+TRN-Driver/Sales Workers And Truck Drivers,driver,67438,63020,4418,0.065512026,0.934487974
+"TRN-Bus Drivers, School",driver,8599,4283,4316,0.501918828,0.498081172
+"TRN-Bus Drivers, Transit And Intercity",driver,8286,5861,2425,0.292662322,0.707337678
+TRN-Shuttle Drivers and Chauffeurs,driver,6018,4903,1115,0.185277501,0.814722499
+TRN-Taxi Drivers,driver,14431,12288,2143,0.148499757,0.851500243
+"TRN-Motor Vehicle Operators, All Other",operator,2786,2225,561,0.201363963,0.798636037
+TRN-Locomotive Engineers And Operators,engineer,468,386,82,0.175213675,0.824786325
+TRN-Railroad Conductors And Yardmasters,conductor,862,746,116,0.134570766,0.865429234
+TRN-Other Rail Transportation Workers,worker,775,548,227,0.292903226,0.707096774
+TRN-Ship And Boat Captains And Operators,operator,1069,991,78,0.072965388,0.927034612
+"TRN-Sailors And Marine Oilers, And Ship Engineers",sailor,930,866,64,0.068817204,0.931182796
+TRN-Parking Attendants,attendant,3091,2534,557,0.180200582,0.819799418
+TRN-Transportation Service Attendants,attendant,2553,2272,281,0.110066588,0.889933412
+TRN-Transportation Inspectors,inspector,1081,976,105,0.097132285,0.902867715
+TRN-Passenger Attendants,attendant,1445,612,833,0.576470588,0.423529412
+TRN-Other Transportation Workers,worker,526,404,122,0.231939163,0.768060837
+TRN-Crane And Tower Operators,operator,805,764,41,0.050931677,0.949068323
+TRN-Industrial Truck And Tractor Operators,operator,5114,4864,250,0.048885413,0.951114587
+TRN-Cleaners Of Vehicles And Equipment,laborer,5952,5165,787,0.132224462,0.867775538
+"TRN-laborers And Freight, Stock, And Material Movers, Hand",laborer,52355,41638,10717,0.204698692,0.795301308
+TRN-Machine Feeders And Offbearers,laborer,858,191,667,0.777389277,0.222610723
+"TRN-Packers And Packagers, Hand",bagger,13446,6113,7333,0.545366652,0.454633348
+TRN-Stockers And Order Fillers,stocker,36987,25638,11349,0.306837538,0.693162462
+TRN-Pumping Station Operators,operator,51,51,0,0,1
+TRN-Refuse And Recyclable Material Collectors,porter,1935,1864,71,0.036692506,0.963307494
+"TRN-Conveyor, Dredge, And Hoist And Winch Operators",operator,437,437,0,0,1
+TRN-Other Material Moving Workers,porter,1087,988,99,0.091076357,0.908923643
+MIL-Military Officer Special And Tactical Operations Leaders,soldier,249,225,24,0.096385542,0.903614458
+MIL-First-Line Enlisted Military Supervisors,soldier,605,562,43,0.07107438,0.92892562
+MIL-Military Enlisted Tactical Operations And Air/Weapons Specialists And Crew Members,technician,903,836,67,0.074197121,0.925802879
+"MIL-Military, Rank Not Specified",soldier,1934,1735,199,0.102895553,0.897104447
